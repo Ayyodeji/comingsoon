@@ -36,7 +36,7 @@ const Home = () => {
                   <Timer targetDate="2024-03-31T00:00:00"/>
                 </div>
 
-                <div className='text-white font-semibold text-[18px] py-[300px]'>
+                <div className='text-white font-semibold text-[18px] py-[200px]'>
                   Scroll Down
                   <div className='pl-8'>
                 
